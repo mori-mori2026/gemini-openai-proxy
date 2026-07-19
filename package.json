@@ -20,7 +20,7 @@
   "dependencies": {
     "@hono/node-server": "1.13.8",
     "eventsource-parser": "3.0.0",
-    "itty-router": "5.0.18"
+    "itty-router": "5.0.24"
   },
   "devDependencies": {
     "@total-typescript/ts-reset": "0.6.1",
